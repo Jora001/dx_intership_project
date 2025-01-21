@@ -20,7 +20,7 @@ function Header() {
         <img src={vector} className={styles.vector} alt="vector"/> 
         <div className={styles.header}>
             <div className={styles.menu}>
-                <span className={styles.logo}>BrandAAA</span>
+                <span className={styles.logo}>Brand</span>
                     <ul className={styles.menu_list}>
                         <li>HomePage</li>
                         <li>Products</li>
