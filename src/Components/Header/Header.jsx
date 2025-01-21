@@ -14,15 +14,15 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 
 function Header() {
-    return (     
+    return (
         
     <div className={styles.section_one}>
         <img src={vector} className={styles.vector} alt="vector"/> 
         <div className={styles.header}>
             <div className={styles.menu}>
-                <span className={styles.logo}>BrandName</span>
+                <span className={styles.logo}>BrandAAA</span>
                     <ul className={styles.menu_list}>
-                        <li>Home</li>
+                        <li>HomePage</li>
                         <li>Products</li>
                         <li>Pricing</li>
                         <li>Contact</li>
@@ -54,7 +54,7 @@ function Header() {
                   
                     <div className={styles.box}>
                     <img src={icon1} alt="icon1"/>
-                    <p className={styles.textbold}>Evaluation Time</p>
+                    <p className={styles.textbold}>Evaluation Time </p>
                     <img src={line1} alt="line1"/>
                     <p className={styles.maintext}>The gradual accumulation of<br></br>
                         information about atomic and <br></br>
