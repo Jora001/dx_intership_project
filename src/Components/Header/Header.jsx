@@ -23,7 +23,7 @@ function Header() {
                 <span className={styles.logo}>BrandName</span>
                     <ul className={styles.menu_list}>
                         <li>Home</li>
-                        <li>Product</li>
+                        <li>Products</li>
                         <li>Pricing</li>
                         <li>Contact</li>
                     </ul>
